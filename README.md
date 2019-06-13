@@ -20,4 +20,4 @@
 - 전체 기능,화면 SPA내 구현
 
 *** 웹페이지 전체적인 형태는 
-https://blog.naver.com/funlucky1002?Redirect=Update&logNo=221478832748
+https://blog.naver.com/funlucky1002/221478832748
